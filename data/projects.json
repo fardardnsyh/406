@@ -1,0 +1,241 @@
+[
+  {
+    "title": "KickTalk - MERN App",
+    "description": "A full stack social media web app inspired by Twitter. Share your thoughts with fans, comment on the latest fixtures, have private chats with like-minded people, view player statistics and enjoy real-time fixture data!",
+    "image": "/kicktalk.png",
+    "url": "https://kicktalk-client.vercel.app",
+    "technologies": [
+      {
+        "name": "React.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "Express.js"
+      },
+      {
+        "name": "Redis"
+      },
+      {
+        "name": "TailwindCSS"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/kicktalk-app"
+      },
+      {
+        "type": "site",
+        "url": "https://kicktalk-client.vercel.app"
+      },
+      {
+        "type": "blog",
+        "url": "https://alexmelia.dev/blog/full-stack-mern-app"
+      }
+    ]
+  },
+  {
+    "title": "Dexx - AI Flashcard & Roadmap Generator",
+    "description": "Dexx is a web app that harnesses the power of GPT-4. Generate flashcards and roadmaps based on any topic or subject!",
+    "image": "/dexx.png",
+    "url": "https://dexx-drab.vercel.app",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Prisma"
+      },
+      {
+        "name": "NextAuth"
+      },
+      {
+        "name": "Shadcn/ui"
+      },
+      {
+        "name": "Supabase"
+      },
+      {
+        "name": "TailwindCSS"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/dexx"
+      },
+      {
+        "type": "site",
+        "url": "https://dexx-drab.vercel.app"
+      }
+    ]
+  },
+  {
+    "title": "BlogAbout - Serverless Blogging App",
+    "description": "A serverless blogging site where you can blog about anything. Write a blog post in Markdown and have it instantly formatted into a blog post!",
+    "image": "/blogabout.png",
+    "url": "https://blogabout-app.vercel.app",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "NextAuth"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "TailwindCSS"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/blogabout"
+      },
+      {
+        "type": "site",
+        "url": "https://blogabout.vercel.app"
+      },
+      {
+        "type": "blog",
+        "url": "https://alexmelia.dev/blog/serverless-web-app-nextjs"
+      }
+    ]
+  },
+  {
+    "title": "SpendWise",
+    "description": "Stay tuned! This project is currently being developed.",
+    "image": "/kicktalk.png",
+    "url": "https://kicktalk-client.vercel.app",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "NextAuth"
+      },
+      {
+        "name": "Prisma"
+      },
+      {
+        "name": "TailwindCSS"
+      }
+    ]
+  },
+  {
+    "title": "E-Barter - Microservices Web App",
+    "description": "A microservices application to barter goods and services",
+    "image": "/ebarter.png",
+    "url": "http://www.ebarter-app-project.xyz/",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Node.js"
+      },
+      {
+        "name": "Express.js"
+      },
+      {
+        "name": "Docker"
+      },
+      {
+        "name": "Kubernetes"
+      },
+      {
+        "name": "AWS"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/ebarter-app"
+      },
+      {
+        "type": "site",
+        "url": "http://www.ebarter-app-project.xyz"
+      },
+      {
+        "type": "blog",
+        "url": "https://alexmelia.dev/blog/creating-a-microservices-app"
+      }
+    ]
+  },
+  {
+    "title": "Pearl Diver Game",
+    "description": "A 2D platform game built using HTML, CSS and JavaScript",
+    "image": "/kicktalk.png",
+    "url": "https://kicktalk-client.vercel.app",
+    "technologies": [
+      {
+        "name": "HTML"
+      },
+      {
+        "name": "CSS"
+      },
+      {
+        "name": "JavaScript"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/pearl-diver-v2"
+      },
+      {
+        "type": "site",
+        "url": "https://pearl-diver.vercel.app"
+      }
+    ]
+  },
+  {
+    "title": "Movie Database",
+    "description": "A RESTful MVC API that fetches and filters Movies from a large database",
+    "image": "/kicktalk.png",
+    "url": "https://kicktalk-client.vercel.app",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "Node.js"
+      }
+    ]
+  },
+  {
+    "title": "Applify - Website Showcase",
+    "description": "A website to accompany my blog post about designing websites that use best practices",
+    "image": "/kicktalk.png",
+    "url": "https://howto-site-demo.vercel.app/",
+    "technologies": [
+      {
+        "name": "Next.js"
+      },
+      {
+        "name": "TailwindCSS"
+      }
+    ],
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/alex-melia/site-demo"
+      },
+      {
+        "type": "site",
+        "url": "https://howto-site-demo.vercel.app"
+      },
+      {
+        "type": "blog",
+        "url": "https://alexmelia.dev/blog/designing-a-great-website"
+      }
+    ]
+  }
+]
